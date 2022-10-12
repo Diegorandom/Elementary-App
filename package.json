@@ -1,0 +1,15 @@
+{
+  "name": "elementaryapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/elementary index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Ortega",
+  "license": "ISC",
+  "dependencies": {
+    "@nick-thompson/elementary": "^0.1.9"
+  }
+}
